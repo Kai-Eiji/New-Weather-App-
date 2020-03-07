@@ -1,0 +1,22 @@
+{
+  "name": "weatherApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "stsrt": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "handlebars": "^4.7.3",
+    "jquery": "^3.4.1",
+    "semantic-ui-css": "^2.4.1",
+    "vanilla-router": "^1.2.8"
+  }
+}
